@@ -6,7 +6,7 @@
     },
     {
       "src": "migrate.sh",
-      "use": "@vercel/static-build",
+      "use": "@vercel/python",
       "config": {
         "distDir": "templates"
       }
